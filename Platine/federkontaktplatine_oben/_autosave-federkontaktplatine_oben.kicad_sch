@@ -939,40 +939,6 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 52.578 60.96 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid 19e56322-0a52-4d87-b619-91795392d16f)
-    (property "Reference" "H2" (at 55.118 59.6899 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (at 55.118 62.2299 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "MountingHole:MountingHole_8.4mm_M8" (at 52.578 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 52.578 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (instances
-      (project "FTCMS_V2.2"
-        (path "/30da9297-09e7-47e7-9d66-9d536b8d0426"
-          (reference "H2") (unit 1)
-        )
-      )
-      (project "federkontaktplatine_oben"
-        (path "/67804148-9fb2-45a4-a226-f3c6005bfe46"
-          (reference "H11") (unit 1)
-        )
-      )
-      (project "FTCMS_PCB_v2.2"
-        (path "/83a6a285-13b6-4ec8-ae72-c2fe713cc487"
-          (reference "H2") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Connector_Generic:Conn_02x10_Odd_Even") (at 132.08 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1dbcc037-8d85-4f3b-96b7-77c00e796f63)
