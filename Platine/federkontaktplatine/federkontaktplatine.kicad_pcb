@@ -451,7 +451,7 @@
 
   (footprint "TestPoint:PAD_1x2mm" (layer "F.Cu")
     (tstamp 99524a44-4649-473b-aa1c-6e2f9f9e2e27)
-    (at 191 149)
+    (at 191 149.25)
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "test point")
