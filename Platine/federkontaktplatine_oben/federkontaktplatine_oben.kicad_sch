@@ -1400,6 +1400,40 @@
     )
   )
 
+  (symbol (lib_id "Mechanical:MountingHole") (at 54.61 60.96 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid a5343056-c5a6-4da9-ae2e-63af0f1ab940)
+    (property "Reference" "H2" (at 57.15 59.6899 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Value" "MountingHole" (at 57.15 62.2299 0)
+      (effects (font (size 1.27 1.27)) (justify left))
+    )
+    (property "Footprint" "MountingHole:MountingHole_3.2mm_M3_DIN965" (at 54.61 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 54.61 60.96 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "FTCMS_V2.2"
+        (path "/30da9297-09e7-47e7-9d66-9d536b8d0426"
+          (reference "H2") (unit 1)
+        )
+      )
+      (project "federkontaktplatine_oben"
+        (path "/67804148-9fb2-45a4-a226-f3c6005bfe46"
+          (reference "H11") (unit 1)
+        )
+      )
+      (project "FTCMS_PCB_v2.2"
+        (path "/83a6a285-13b6-4ec8-ae72-c2fe713cc487"
+          (reference "H2") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 47.498 30.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b8ed3cb1-142c-4881-8e68-3b579c9cc4db)
