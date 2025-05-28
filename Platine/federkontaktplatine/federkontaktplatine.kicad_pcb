@@ -99,7 +99,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965" (layer "F.Cu")
     (tstamp 0c1570f5-c462-4960-8770-8f774ad9eb3a)
-    (at 43.5 99.25)
+    (at 40.5 79.25)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
@@ -219,7 +219,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965" (layer "F.Cu")
     (tstamp 42898119-1c80-4e8f-a6a7-8bcf016b8428)
-    (at 252.5 139.25)
+    (at 255.5 119.25)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
@@ -309,7 +309,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965" (layer "F.Cu")
     (tstamp 52b3d5ef-a166-4957-a6c8-556e7c9e5bba)
-    (at 43.5 139.25)
+    (at 40.5 119.25)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
@@ -541,7 +541,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965" (layer "F.Cu")
     (tstamp 7fea4abd-203c-4b81-b33e-20d0cf35d480)
-    (at 252.5 59.25)
+    (at 255.5 39.25)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
@@ -721,7 +721,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965" (layer "F.Cu")
     (tstamp 9c2a7eab-65b9-4858-8bc0-98a6bb9dd738)
-    (at 252.5 99.25)
+    (at 255.5 79.25)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
@@ -931,7 +931,7 @@
 
   (footprint "MountingHole:MountingHole_3.2mm_M3_DIN965" (layer "F.Cu")
     (tstamp f5d87155-554a-44ea-9c76-99bac7eb6bc0)
-    (at 43.5 59.25)
+    (at 40.5 39.25)
     (descr "Mounting Hole 3.2mm, no annular, M3, DIN965")
     (tags "mounting hole 3.2mm no annular m3 din965")
     (property "Sheetfile" "federkontaktplatine.kicad_sch")
@@ -977,11 +977,11 @@
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 6beb1071-d532-4df7-ab75-6c3afac76f06))
   (gr_line (start 276 153) (end 276 25.5)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 6fea106d-7b38-446e-8d87-b21bb157c855))
+  (gr_line (start 25 20.5) (end 144 20.5)
+    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 77836dd2-5b4b-446e-b3fa-8b0945033ea2))
   (gr_line (start 167 169) (end 167 158)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp 7f75e3ad-9c11-4c46-aea9-640f656ff1cf))
   (gr_line (start 152 20.5) (end 271 20.5)
-    (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp a262c3bd-2605-4c7a-a1ed-314fa1a65ce9))
-  (gr_line (start 25 20.5) (end 144 20.5)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp a262c3bd-2605-4c7a-a1ed-314fa1a65ce9))
   (gr_arc (start 271 20.5) (mid 274.535534 21.964466) (end 276 25.5)
     (stroke (width 0.1) (type default)) (layer "Edge.Cuts") (tstamp b1d6aa1f-fe69-47c9-b4d4-9788749a2489))
